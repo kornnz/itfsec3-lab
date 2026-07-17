@@ -1,6 +1,6 @@
 """lab"""
 
 def main():
-    print("hello ItF")
+    print("hello LAB 434")
 main()
 
